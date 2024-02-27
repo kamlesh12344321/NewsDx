@@ -1,4 +1,4 @@
-package com.diangle.newsdxhome
+package com.diangle.newsdxhome.presenetation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
